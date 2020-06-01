@@ -5,7 +5,7 @@ metadata:
   namespace: istio-demos
 spec:
   hosts:
-    - "*"
+    - "istio-demos.com"
   gateways:
     - helloworld-gateway
   http:
